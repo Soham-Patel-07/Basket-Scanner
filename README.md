@@ -39,3 +39,22 @@ An IoT-enabled smart shopping basket that scans items in real time to automate b
 
 ## 📁 Folder Structure
 
+
+
+
+## 🧠 Skills Demonstrated
+
+- Embedded C & Arduino Programming
+- IoT Sensor Integration
+- Circuit Design & Hardware Assembly
+- Wireless Communication (Wi-Fi, Bluetooth)
+- Real-time Data Display & Billing
+
+## 📚 References
+
+- [Arduino Official Docs](https://www.arduino.cc/)
+- [RFID with Arduino Tutorial](https://circuitdigest.com/microcontroller-projects/rfid-interfacing-with-arduino)
+- [ESP8266 Documentation](https://www.espressif.com/en/products/socs/esp8266)
+
+---
+> 👨‍💻 *Developed as part of final-year diploma project at Mahavir Swami College of Polytechnic.*
