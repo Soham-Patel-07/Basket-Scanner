@@ -39,21 +39,6 @@ An IoT-enabled smart shopping basket that scans items in real time to automate b
 
 ## 📁 Folder Structure
 
-basket-scanner/
-│
-├── code/ # Arduino code (Embedded C)
-│ └── basket_scanner.ino
-│
-├── docs/ # Project report PDFs
-│ ├── PROJECT_REPORT.pdf
-│ └── Index_project.pdf
-│
-├── images/ # Hardware setup, LCD screenshots
-│ ├── lcd-output.jpg
-│ └── rfid-scanning.jpg
-│
-├── README.md
-└── LICENSE (if needed)
 
 
 ## 🧠 Skills Demonstrated
