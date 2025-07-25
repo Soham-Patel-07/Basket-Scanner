@@ -50,10 +50,8 @@ basket-scanner/
 │   ├── lcd-output.jpg
 │   ├── rfid-scan.jpg
 │   └── hardware-setup.jpg
-├── README.md
-└── LICENSE (optional)
+└── README.md 
 </pre>
-
 
 
 ## 🧠 Skills Demonstrated
