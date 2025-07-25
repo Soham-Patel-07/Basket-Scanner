@@ -22,7 +22,7 @@ An IoT-enabled smart shopping basket that scans items in real time to automate b
 
 | RFID Scanning | Output on LCD | Output on Computer |
 |---------------|---------------|---------------------|
-| ![](assets/rfid-scan.jpg) | ![](assets/lcd-output.jpg) | ![](assets/computer-output.jpg) |
+| ![](assets/rfid-scan.png) | ![](assets/lcd-output.png) | ![](assets/computer-output.png) |
 
 ## ⚙️ System Architecture
 
