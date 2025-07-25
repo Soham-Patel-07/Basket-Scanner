@@ -50,7 +50,7 @@ basket-scanner/
 │   ├── lcd-output.png
 │   ├── rfid-scan.png
 │   ├── computer-output.png
-│   └── ..........
+│   └── ..............
 └── README.md 
 </pre>
 
