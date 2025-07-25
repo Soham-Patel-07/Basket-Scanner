@@ -47,7 +47,7 @@ basket-scanner/
 │   ├── PROJECT REPORT.pdf
 │   └── Index project.pdf
 ├── Presentations/
-│   └── Presentations
+│   └── Basket Scanner ppt.pptx
 ├── images/
 │   ├── lcd-output.png
 │   ├── rfid-scan.png
