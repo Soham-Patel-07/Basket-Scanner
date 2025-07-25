@@ -41,13 +41,13 @@ An IoT-enabled smart shopping basket that scans items in real time to automate b
 
 <pre>
 basket-scanner/
-├── code/
+├── Code/
 │   └── basket_scanner.ino
-├── docs/
+├── Documents/
 │   ├── PROJECT REPORT.pdf
 │   └── Index project.pdf
 ├── Presentations/
-│   └── 
+│   └── Presentations
 ├── images/
 │   ├── lcd-output.png
 │   ├── rfid-scan.png
