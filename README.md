@@ -72,4 +72,4 @@ basket-scanner/
 - [ESP8266 Documentation](https://www.espressif.com/en/products/socs/esp8266)
 
 ---
-> 👨‍💻 *Developed as part of final-year diploma project at Mahavir Swami College of Polytechnic.*
+> 👨‍💻 *Developed as part of final-year diploma project at Mahavir Swami College of Polytechnic.* 
