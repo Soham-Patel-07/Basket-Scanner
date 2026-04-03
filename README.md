@@ -71,4 +71,10 @@ basket-scanner/
 - [RFID with Arduino Tutorial](https://circuitdigest.com/microcontroller-projects/rfid-interfacing-with-arduino)
 - [ESP8266 Documentation](https://www.espressif.com/en/products/socs/esp8266)
 
+## License
+
+MIT License
+
+---
+
 **Note:** 👨‍💻 Developed as part of final-year diploma in computer engineering project in May 2020 at Mahavir Swami College of Polytechnic.
