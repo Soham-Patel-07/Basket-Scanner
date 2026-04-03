@@ -1,7 +1,5 @@
 # 🛒 Basket Scanner – IoT Smart Billing System
 
-> 👨‍💻 Developed as part of final-year diploma in computer engineering project in May 2020 at Mahavir Swami College of Polytechnic.
-
 An IoT-enabled smart shopping basket that scans items in real time to automate billing, reduce queues, and provide a checkout-free retail experience.
 
 ## 🔧 Features
@@ -72,3 +70,5 @@ basket-scanner/
 - [Arduino Official Docs](https://www.arduino.cc/)
 - [RFID with Arduino Tutorial](https://circuitdigest.com/microcontroller-projects/rfid-interfacing-with-arduino)
 - [ESP8266 Documentation](https://www.espressif.com/en/products/socs/esp8266)
+
+**Note:** 👨‍💻 Developed as part of final-year diploma in computer engineering project in May 2020 at Mahavir Swami College of Polytechnic.
