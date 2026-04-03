@@ -77,4 +77,4 @@ MIT License
 
 ---
 
-**Note:** 👨‍💻 Developed as part of final-year diploma in computer engineering project in May 2020 at Mahavir Swami College of Polytechnic.
+**Note:** 👨‍💻 Developed as part of **final-year** in **Diploma Engineering** in **Computer Engineering** project in **May 2020** at **Mahavir Swami College of Polytechnic.**
