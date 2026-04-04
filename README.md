@@ -39,22 +39,32 @@ An IoT-enabled smart shopping basket that scans items in real time to automate b
 
 ## 📁 Folder Structure
 
-<pre>
-basket-scanner/
+```
+Basket-Scanner/
+├── .git/                      # Git repository metadata
 ├── Code/
-│   └── basket_scanner.ino
+│   └── basket_scanner.ino     # Arduino sketch for RFID scanning
 ├── Documents/
-│   ├── PROJECT REPORT.pdf
-│   └── Index project.pdf
+│   ├── PROJECT REPORT.pdf     # Project documentation
+│   └── Index project.pdf      # Project index
 ├── Presentations/
-│   └── Basket Scanner ppt.pptx
+│   └── Basket Scanner ppt.pptx  # Project presentation
 ├── images/
-│   ├── lcd-output.png
 │   ├── rfid-scan.png
+│   ├── lcd-output.png
 │   ├── computer-output.png
-│   └── ..............
-└── README.md 
-</pre>
+│   ├── Use Case Diagram.JPG
+│   ├── UML Activity Diagram.JPG
+│   ├── Scanning Item or card.jpg
+│   ├── Flow Chart.JPG
+│   ├── ERD Diagram.JPG
+│   ├── DFD Diagram.JPG
+│   ├── Before Scanning the UID Tag.jpg
+│   ├── Arduino connection with breadboard and LED display.JPG
+│   └── After Scanning the UID Tag.jpg
+├── LICENSE                    # MIT License
+└── README.md                  # Project documentation
+```
 
 
 ## 🧠 Skills Demonstrated
