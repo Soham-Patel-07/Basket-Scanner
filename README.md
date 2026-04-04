@@ -65,15 +65,16 @@ basket-scanner/
 - Wireless Communication (Wi-Fi, Bluetooth)
 - Real-time Data Display & Billing
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 ## 📚 References
 
 - [Arduino Official Docs](https://www.arduino.cc/)
 - [RFID with Arduino Tutorial](https://circuitdigest.com/microcontroller-projects/rfid-interfacing-with-arduino)
 - [ESP8266 Documentation](https://www.espressif.com/en/products/socs/esp8266)
 
-## License
-
-MIT License
 
 ---
 
